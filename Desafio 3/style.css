@@ -1,0 +1,12 @@
+.primeira {
+    float: left;
+}
+
+.segunda {
+    width: 500px;
+    height: 500px;
+    float: right;
+    background-color: white;
+    color: #504BE5;
+    border-radius: 5px;
+}
